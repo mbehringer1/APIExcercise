@@ -8,4 +8,8 @@ To run from the command line you will:
   
 > dotnet restore
 ​
+The following will run the service under port 80
 > dotnet run
+
+The following will allow you to run the service under any port
+> dotnet run --server.urls "http://localhost:5100;http://localhost:5101;http://*:5102"
