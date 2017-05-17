@@ -7,7 +7,7 @@ To run from the command line you will:
  3. Execute the following 
 
 > dotnet restore
-​
+
 The following will run the service under port 80
 > dotnet run
 
