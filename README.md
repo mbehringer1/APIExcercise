@@ -7,5 +7,5 @@ To run from the command line you will:
   3. Execute the following 
   
 > dotnet restore
-​
+
 > dotnet run
