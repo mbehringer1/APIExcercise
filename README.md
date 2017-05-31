@@ -13,3 +13,6 @@ The following will run the service under port 80
 
 The following will allow you to run the service under any port
 > dotnet run --server.urls "http://localhost:5100;http://localhost:5101;http://*:5102"
+
+TODO:
+ 1. Swagger implementation for optional parameter isn't quite right.  Need to research this a bit more.
